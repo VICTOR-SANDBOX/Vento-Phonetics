@@ -35,8 +35,8 @@
 |---------|-----|----------------|-------------------|-------------------|
 | `p` | /p/ | Oclusiva bilabial surda | Voiceless bilabial plosive | **p**ato, ca**p**a |
 | `b` | /b/ | Oclusiva bilabial sonora | Voiced bilabial plosive | **b**ola, a**b**rir |
-| `t` | /t/ | Oclusiva alveolar surda | Voiceless alveolar plosive | **t**ato, ga**t**o |
-| `d` | /d/ | Oclusiva alveolar sonora | Voiced alveolar plosive | **d**ado, na**d**a |
+| `t` | /t/ | Oclusiva alveolar/pós-alveolar surda | Voiceless alveolar plosive | **t**ato, **t**ia |
+| `d` | /d/ | Oclusiva alveolar/pós-alveolar sonora | Voiced alveolar plosive | **d**ado, **d**ia |
 | `k` | /k/ | Oclusiva velar surda | Voiceless velar plosive | **c**asa, **qu**ero |
 | `g` | /ɡ/ | Oclusiva velar sonora | Voiced velar plosive | **g**ato, a**g**ora |
 
@@ -48,16 +48,8 @@
 | `v` | /v/ | Fricativa labiodental sonora | Voiced labiodental fricative | **v**ida, a**v**ião |
 | `s` | /s/ | Fricativa alveolar surda | Voiceless alveolar fricative | **s**ala, pa**ss**o |
 | `z` | /z/ | Fricativa alveolar sonora | Voiced alveolar fricative | ca**s**a, **z**ebra |
-| `ch` | /ʃ/ | Fricativa pós-alveolar surda | Voiceless postalveolar fricative | **ch**ave, a**ch**ar |
-| `sh` | /ʃ/ | Variante de `ch` | Variant of `ch` | — |
+| `x` | /ʃ/ | Fricativa pós-alveolar surda | Voiceless postalveolar fricative | **ch**ave, a**ch**ar |
 | `j` | /ʒ/ | Fricativa pós-alveolar sonora | Voiced postalveolar fricative | **j**ogo, **g**elo |
-| `h` | /h/ | Fricativa glotal | Glottal fricative | ca**rr**o (carioca) |
-
-### Africadas / Affricates
-
-| F-SAMPA | IPA | Descrição (PT) | Description (EN) | Exemplo / Example |
-|---------|-----|----------------|-------------------|-------------------|
-| `dZ` | /dʒ/ | Africada pós-alveolar sonora | Voiced postalveolar affricate | **d**ia (em certos dialetos) |
 
 ### Nasais / Nasals
 
@@ -79,13 +71,6 @@
 | F-SAMPA | IPA | Descrição (PT) | Description (EN) | Exemplo / Example |
 |---------|-----|----------------|-------------------|-------------------|
 | `r` | /ɾ/ | Tepe alveolar | Alveolar tap | ca**r**o, pa**r**a |
-| `rh` | /ʁ/ | Fricativa uvular | Uvular fricative | ca**rr**o, **r**ato |
-
-### Semivogais / Semivowels
-
-| F-SAMPA | IPA | Descrição (PT) | Description (EN) | Exemplo / Example |
-|---------|-----|----------------|-------------------|-------------------|
-| `w` | /w/ | Semivogal posterior | Back semivowel | á**gu**a, pa**u** |
-| `y` | /j/ | Semivogal anterior | Front semivowel | pa**i**, fe**i**to |
+| `rr` | /h/ | Fricativa glotal/uvular | Glottal/Uvular fricative | ca**rr**o, **r**ato |
 
 ---

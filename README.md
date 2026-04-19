@@ -19,11 +19,11 @@
 
 | F-SAMPA | IPA | Exemplo |
 |---------|-----|---------|
-| `A` | /ã/ | l**ã** |
-| `E` | /ẽ/ | t**en**to |
-| `I` | /ĩ/ | s**in**to |
-| `O` | /õ/ | s**om** |
-| `U` | /ũ/ | m**un**do |
+| `@` | /ã/ | l**ã** |
+| `7` | /ẽ/ | t**en**to |
+| `1` | /ĩ/ | s**in**to |
+| `0` | /õ/ | s**om** |
+| `Q` | /ũ/ | m**un**do |
 
 #### Vogais Acentuadas
 
@@ -32,18 +32,14 @@
 | `X` | Vogal acentuada | **É** |
 | `V` | Vogal acentuada | **Ó** |
 
-Total: 12
-
 #### Consoantes
 
 | F-SAMPA | IPA | Exemplo |
 |---------|-----|---------|
 | `b` | /b/ | **b**ola |
 | `d` | /d/ | **d**ado |
-| `dy` | /dʒ/ | **d**ia |
 | `f` | /f/ | **f**aca |
 | `g` | /ɡ/ | **g**ato |
-| `rr` | /h/ | ca**rr**o |
 | `j` | /ʒ/ | **j**ogo |
 | `k` | /k/ | **c**asa |
 | `l` | /l/ | **l**ua |
@@ -53,18 +49,12 @@ Total: 12
 | `nh` | /ɲ/ | ba**nh**o |
 | `p` | /p/ | **p**ato |
 | `r` | /ɾ/ | ca**r**o |
+| `rr` | /h/ | ca**rr**o |
 | `s` | /s/ | **s**ala |
 | `t` | /t/ | **t**ato |
-| `ty` | /ʃ/ | **t**ia |
 | `v` | /v/ | **v**ida |
 | `x` | /ʃ/ | **ch**ave |
 | `z` | /z/ | ca**s**a |
-
-Total: 20
-
-20*12 240 * 2 480
-VV 12 * 12 144 / 7 m 24 rec 6 c por linha
-480 + 24
 
 ## Phonemizer
 
