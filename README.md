@@ -110,6 +110,9 @@ Para criar encontros consonantais do tipo **CCV** (como "pra", "tra", "vra"), re
 * **Exemplo:** `pra` → deve ser escrito como `pe` `ra`.
 * **Ajuste:** A nota com o som `pe` deve ser mantida bem curta, servindo apenas para disparar o ataque da consoante `p`, transitando imediatamente para o `ra`.
 
+* <img width="440" height="234" alt="{2A7F5298-1B06-406D-A84B-577E4A0D0F1B}" src="https://github.com/user-attachments/assets/34bace3f-1187-4b4a-abf7-9db2b5975327" />
+
+
 > [!TIP]
 > **Por que usar "e" em vez de schwa (vocal neutra)?**
 > No Português Brasileiro, o uso do som **"e"** (fechado) para essas transições produz um resultado muito mais natural e fluido do que o uso de um schwa. Isso ocorre porque o "e" mantém o posicionamento do trato vocal mais próximo das gravações originais do banco, evitando o som "robótico" ou artificial que o schwa costuma introduzir nessas conexões.
